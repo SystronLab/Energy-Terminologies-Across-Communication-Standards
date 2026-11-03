@@ -1,4 +1,4 @@
-# Energy-Terminologies-Across-Communication-Standards
+# Mapping of Terminologies Related to Energy in Communication Networks Across Standards
 
 ## Abstract
 
