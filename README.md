@@ -11,7 +11,7 @@ This work proposes a unified framework for mapping terminologies related to ener
 We have manually extracted terms related to energy from different standards and aligned them to create version 1 of this unified data set. This may be useful for members in the scientific community to understand different standards, inconsistencies and gap therewith, leading to new terms and other improvements.
 
 
-## Citations
+## How to Cite
 
 ### IEEE
 
